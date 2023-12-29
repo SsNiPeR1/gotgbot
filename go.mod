@@ -1,3 +1,3 @@
-module github.com/SsNiPeR1/gotgbot/7.0-test
+module github.com/PaulSonOfLars/gotgbot/v2
 
 go 1.19
